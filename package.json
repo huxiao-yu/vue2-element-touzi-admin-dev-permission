@@ -15,7 +15,7 @@
     "core-js": "^2.6.5",
     "echarts": "^3.8.5",
     "element-ui": "^2.0.7",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "js-cookie": "^2.2.0",
     "mockjs": "^1.0.1-beta3",
     "nprogress": "^0.2.0",
